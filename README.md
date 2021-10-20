@@ -1,1 +1,1 @@
-# Data-science-parkinson-s-disease-using-python
+# Data-science-Detection-of-parkinson-s-disease-using-python
